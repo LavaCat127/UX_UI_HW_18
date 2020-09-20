@@ -137,7 +137,7 @@ section {
 /* hero section */
 .hero{
   height: 100vh;
-  padding: 140px 40px 40px;
+  padding: 120px 40px 40px;
   display: flex;
   position: relative;
   flex-direction: column;
@@ -275,7 +275,7 @@ h2{
 
 .a02 .number{
   right: auto;
-  left: -10%;
+  left: -17%;
 }
 /* End of article 02 */
 
@@ -466,7 +466,7 @@ h2{ font-size: 40px; }
   left: 13%;
   width: 80%;
   bottom: -27%;
-}}
+}
 
 .a02 .number{
   color: #AE91CB;
